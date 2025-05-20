@@ -1,0 +1,12 @@
+name: t_test_direction
+title: t_test_direction
+username: ingorohlfing
+account: ingorohlfing
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14790085
+bundleId: 10312433
+url: https://ingorohlfing.shinyapps.io/t_test_direction/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
